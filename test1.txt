@@ -1,0 +1,9 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CCFD-0628
+
+ Directory of C:\MyRepo
+
+29-06-2021  16:53               245 test.txt
+29-06-2021  17:28                 0 test1.txt
+               2 File(s)            245 bytes
+               0 Dir(s)  302,527,086,592 bytes free
