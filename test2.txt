@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CCFD-0628
+
+ Directory of C:\getrepo\JavaWorks
+
+29-06-2021  18:16    <DIR>          .
+29-06-2021  18:16    <DIR>          ..
+29-06-2021  18:14                46 desktop.ini
+29-06-2021  18:14               245 test.txt
+29-06-2021  18:14               292 test1.txt
+29-06-2021  18:16                 0 test2.txt
+               4 File(s)            583 bytes
+               2 Dir(s)  299,497,811,968 bytes free
